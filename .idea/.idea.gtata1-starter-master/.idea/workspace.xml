@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5e4d581-1bfd-4f7c-9e1e-a2eb75099094" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meshes/Flower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meshes/TorusScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleCameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MeshGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://F:/Studium/4. Semester/GTATA1/SubwayCreatures/SubwayCreaturesGame/Assets/Scripts/SM/StateMachine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/junk/MeshTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meshes/Torus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meshes/Hyperboloid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://F:/Studium/4. Semester/GTATA1/SubwayCreatures/SubwayCreaturesGame/Assets/Scripts/ScoreManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://F:/Studium/4. Semester/GTATA1/SubwayCreatures/SubwayCreaturesGame/Assets/Scripts/CoinSpawner.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meshes/FlowerScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meshes/Surface.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meshes/KleinBottle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meshes/HyperboloidScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://F:/Studium/4. Semester/GTATA1/SubwayCreatures/SubwayCreaturesGame/Assets/Scripts/EnemySpawn.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://F:/Studium/4. Semester/GTATA1/SubwayCreatures/SubwayCreaturesGame/Assets/Scripts/Pause.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://F:/Studium/4. Semester/GTATA1/SubwayCreatures/SubwayCreaturesGame/Assets/Scripts/CameraScript.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpiralMesh.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpiralOnDrugs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meshes/ISurface.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meshes/TorusScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meshes/HyperboloidScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meshes/FlowerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meshes/Flower.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meshes/Torus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meshes/Surface.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/junk/MeshTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meshes/Hyperboloid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meshes/KleinBottle.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cAigqK0sqjIM4jgzfGqkU8qSZR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5e4d581-1bfd-4f7c-9e1e-a2eb75099094" name="Default Changelist" comment="" />
+      <created>1589977913475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589977913475</updated>
+      <workItem from="1589977921806" duration="347000" />
+      <workItem from="1589978309428" duration="4285000" />
+      <workItem from="1589984041998" duration="4414000" />
+      <workItem from="1590057284989" duration="11849000" />
+      <workItem from="1590160243450" duration="12393000" />
+      <workItem from="1590241945641" duration="1437000" />
+      <workItem from="1590314371205" duration="2939000" />
+      <workItem from="1590334690283" duration="4440000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="794" y="220" key="RiderGenerateDialog" timestamp="1590337611494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="220" key="RiderGenerateDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590337611494" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1589977949310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589977949310" />
+    <state x="2093" y="-12" width="1384" height="1027" maximized="true" key="dock-window-1" timestamp="1590337776554">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2093" y="-12" width="1384" height="1027" maximized="true" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590337776554" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590337186764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590337186764" />
+  </component>
+</project>
